@@ -1,17 +1,14 @@
-## Hi there 👋
-
-<!--
-**nahoang/nahoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🚀 <b>About Me</b>
 Building an Open IT Agency ([EagerUI](https://eagerui.com/)).
 
-💰 Always looking for new clients & partners. ([Contact me](mailto:nahoang9698@gmail.com)) please
+- :moneybag: Always looking for new clients & partners, [Contact Me](mailto:eagerui@gmail.com) please.
 
-🏆 GitHub Awards
+🏆 <b>GitHub Awards</b>
 
-Github Trophy
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=nahoang)
 
-⭐ GitHub Stars
+⭐ <b>GitHub Stars</b>
 
+![nahoang's github stats](https://nahoang-github-stats.vercel.app/api?username=nahoang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-Made with ❤️ by nahoang
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nahoang)
