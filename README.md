@@ -18,10 +18,6 @@ I also run [EagerUI.com](https://eagerui.com/) – a collection of starter kits,
 
 ⭐ Star my repos & explore EagerUI to build your next project faster. 🚀
 
-🏆 <b>GitHub Awards</b>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=nahoang)
-
-⭐ <b>GitHub Stars</b>
+🔹 **Need a developer for your project?** Hire me on [Upwork](https://www.upwork.com/agencies/1786064410787774464/). Let's build something amazing together! 💡
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nahoang)
