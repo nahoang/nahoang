@@ -16,7 +16,7 @@ I also run [EagerUI.com](https://eagerui.com/) – a collection of starter kits,
 
 💬 Open to collaborations, ideas, and cool side projects!
 
-⭐ Star my repos & explore EagerUI to build your next project faster. 🚀
+⭐ Star [my repos](https://github.com/eagerui) & explore [EagerUI.com](https://eagerui.com/) to build your next project faster. 🚀
 
 🔹 **Need a developer for your project?** Hire me on [Upwork](https://www.upwork.com/agencies/1786064410787774464/). Let's build something amazing together! 💡
 
