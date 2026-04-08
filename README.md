@@ -10,12 +10,11 @@ I love crafting scalable web applications, optimizing performance, and automatin
 
 🎨 UI/UX Focused – Clean, accessible & user-friendly interfaces
 
-I also run [EagerUI.com](https://eagerui.com/) – a collection of starter kits, open-source tools, and UI components to help developers ship faster with Django, Next.js, and more.
 
 📌 **Let’s Connect!**
 
 💬 Open to collaborations, ideas, and cool side projects!
 
-⭐ Star [my repos](https://github.com/eagerui) & explore [EagerUI.com](https://eagerui.com/) to build your next project faster. 🚀
+⭐ Star [my repos](https://github.com/eagerui)  to build your next project faster. 🚀
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nahoang)
