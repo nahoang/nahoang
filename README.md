@@ -1,10 +1,10 @@
 👋 **Hey, I’m Henry – Builder, Innovator & Tech Enthusiast**
 
-I love crafting scalable web applications, optimizing performance, and automating workflows. Whether it’s Django, Next.js, Node.js, or cloud infrastructure, I’m always exploring better ways to build and ship products faster. 🚀
+I love crafting scalable web applications, optimizing performance, and automating workflows. Whether it’s Next.js, Nestjs, Fastapi or cloud infrastructure, I’m always exploring better ways to build and ship products faster. 🚀
 
 🔹 **What I Do**?
 
-💻 Full-Stack Development – Python, JavaScript, APIs & Databases
+💻 Full-Stack Development – Nextjs, Nestjs, Fastapi, JavaScript, APIs & Databases
 
 🚀 Automation & Scalability – Optimized workflows, cloud infra, async jobs
 
